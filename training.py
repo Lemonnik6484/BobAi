@@ -15,9 +15,9 @@ from datetime import datetime
 # -----------------------
 # Config
 # -----------------------
-oversample_amount = 5
-quotes_data_limit = 1000
-conversations_limit = 1000
+oversample_amount = 1
+quotes_data_limit = 0
+conversations_limit = 0
 extra_data_limit = 0
 
 # -----------------------
